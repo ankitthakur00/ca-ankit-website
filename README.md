@@ -1,8 +1,7 @@
-# LT & ASSOCIATES
+# ANKIT MAHENDRA & ASSOCIATES
+ 
 
-This is a website developed for a CA Firm of a client. The website comes with a royal blue and white color theme. It is  fast as all images are compressed using png, which is recommended for web images. 
 
-This website is end to end responsive - messages sent by users land in company's email instead of being saved in database.
 
 ### Technical Related
 
@@ -17,7 +16,6 @@ This website is end to end responsive - messages sent by users land in company's
 
 ### Features
 
-* Royal blue and white theme
 * Fast loading
 * Beautiful UI and UX
 * Smooth animations
